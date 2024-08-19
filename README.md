@@ -9,11 +9,6 @@
 | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |  | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  |
 
 
-### 🌟 Notable Achievements
-- Authored a research paper as first author.
-- Founder and head of Google Developer Student Clubs (GDSC) at my college.
-- Won multiple hackathons.
-
 ### 📊 **GitHub Stats**
 
 ![Samyuktha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyuktha-12&show_icons=true&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff&icon_color=8A2BE2)
