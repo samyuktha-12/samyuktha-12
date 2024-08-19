@@ -8,10 +8,6 @@ Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM
 - **Languages:** Python, JavaScript, TypeScript
 - **Tools:** Git
 
-### 🌱 What I'm currently working on:
-- A multilingual chatbot called **LingoBuddy**.
-- Video translation service using Flask and YouTube API.
-
 ### 🌟 Notable Achievements:
 - Authored a research paper as first author.
 - Founder and head of Google Developer Student Clubs (GDSC) at my college.
