@@ -11,7 +11,7 @@ Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM
 | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |  | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  |
 
 
-### 🌟 Notable Achievements:
+### 🌟 Notable Achievements
 - Authored a research paper as first author.
 - Founder and head of Google Developer Student Clubs (GDSC) at my college.
 - Won multiple hackathons.
@@ -22,7 +22,7 @@ Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyuktha-12&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
 
-### 🌐 Let's Connect:
+### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samyuktha-m-s)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyuktha1262@gmail.com)
 
