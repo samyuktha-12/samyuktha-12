@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile! 👋
-
-Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM ISL. I have a strong foundation in Computer Science, Data Science, and Frontend Development. I love working on innovative projects and exploring new technologies.
+# **Samyuktha M S** | Software Developer at [IBM](https://www.ibm.com) 
 
 ### 🔧 **Tech Stack**
 
