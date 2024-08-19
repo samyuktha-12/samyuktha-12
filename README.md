@@ -18,14 +18,12 @@ Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM
 
 ### 📊 **GitHub Stats**
 
-### 📊 **GitHub Stats**
-
 ![Samyuktha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyuktha-12&show_icons=true&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff&icon_color=8A2BE2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyuktha-12&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
 
-### 📫 Let's Connect:
+### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samyuktha-m-s)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyuktha1262@gmail.com)
 
-Feel free to explore my repositories and projects. 🚀
 
