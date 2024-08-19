@@ -17,8 +17,13 @@ Hello! I'm Samyuktha, a passionate tech enthusiast and software developer at IBM
 - Founder and head of Google Developer Student Clubs (GDSC) at my college.
 - Won multiple hackathons.
 
+### 📊 GitHub Stats:
+![Samyuktha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyuktha-12&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyuktha-12&layout=compact&theme=radical)
+
 ### 📫 Let's Connect:
-- LinkedIn: [Samyuktha M S](https://linkedin.com/in/samyuktha-m-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samyuktha-m-s)
 
 Feel free to explore my repositories and projects. 🚀
 
