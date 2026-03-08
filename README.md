@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4B0082,100:00e5ff&height=220&section=header&text=Samyuktha%20M%20S&fontSize=50&fontColor=00e5ff&fontAlignY=35&desc=Software%20Developer%20@%20IBM&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- Cyberpunk Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00e5ff,50:a855f7,100:ff006e&height=200&section=header&text=SAMYUKTHA%20M%20S&fontSize=48&fontColor=00e5ff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Developer%20%40%20IBM%20%E2%9A%A1&descSize=16&descColor=c9d1d9&descAlignY=55&stroke=00e5ff&strokeWidth=1" width="100%" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+things+that+matter;%3E+Code+%E2%80%A2+Create+%E2%80%A2+Innovate;%3E+Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40samyuktha;%E2%94%9C%E2%94%80%E2%94%80+%24+Building+things+that+matter;%E2%94%94%E2%94%80%E2%94%80+%24+Code+%E2%80%A2+Create+%E2%80%A2+Ship+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
 
 ### `> cat about_me.txt`
 
@@ -205,5 +205,5 @@ const samyuktha = {
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:4B0082,100:0d1117&height=120&section=footer" width="100%" />
+<!-- Cyberpunk Footer -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff006e,50:a855f7,100:00e5ff&height=150&section=footer&reversal=true" width="100%" />
