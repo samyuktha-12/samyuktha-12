@@ -1,22 +1,209 @@
-# **Samyuktha M S** | Software Developer at [IBM](https://www.ibm.com) 
+<div align="center">
 
-### 🔧 **Tech Stack**
+<!-- Animated Header SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4B0082,100:00e5ff&height=220&section=header&text=Samyuktha%20M%20S&fontSize=50&fontColor=00e5ff&fontAlignY=35&desc=Software%20Developer%20@%20IBM&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%" />
 
-| **Frontend** | **Backend** | **Languages** | **Tools** |
-|:------------:|:-----------:|:-------------:|:---------:|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) |  |
-| ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |  | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  |
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+things+that+matter;%3E+Code+%E2%80%A2+Create+%E2%80%A2+Innovate;%3E+Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+</a>
 
+<br/>
 
-### 📊 **GitHub Stats**
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyuktha-12/samyuktha-12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samyuktha-12/samyuktha-12/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samyuktha-12/samyuktha-12/output/github-snake-dark.svg" />
+</picture>
 
-![Samyuktha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyuktha-12&show_icons=true&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff&icon_color=8A2BE2)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyuktha-12&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
+---
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samyuktha-m-s)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyuktha1262@gmail.com)
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" />
 
+### `> cat about_me.txt`
 
+```js
+const samyuktha = {
+    role: "Software Developer",
+    company: "IBM",
+    code: ["JavaScript", "TypeScript", "Python"],
+    askMeAbout: ["web dev", "tech", "open source"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Angular"],
+            css: ["SCSS", "Tailwind"]
+        },
+        backEnd: {
+            js: ["Node.js"],
+            python: ["Flask"]
+        },
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "There are two ways to write error-free programs; only the third one works."
+};
+```
+
+<br clear="both"/>
+
+---
+
+<div align="center">
+
+### `> ls ./tech_stack/`
+
+<br/>
+
+<!-- Custom Skill Icons Grid -->
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-00e5ff?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br/><sub><b>Angular</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━-dd0031?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/><sub><b>Node.js</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━-339933?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br/><sub><b>Flask</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━-ffffff?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/><sub><b>Python</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-3776ab?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br/><sub><b>JavaScript</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-f7df1e?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br/><sub><b>TypeScript</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━-007acc?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="SCSS" />
+<br/><sub><b>SCSS</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━-cc6699?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━-f05032?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br/><sub><b>VS Code</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━-007acc?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br/><sub><b>Docker</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━-2496ed?style=flat-square" />
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br/><sub><b>Linux</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━-fcc624?style=flat-square" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> neofetch --stats`
+
+<br/>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/samyuktha-12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyuktha-12&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=a855f7&hide_border=true&border_radius=15&ring_color=a855f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyuktha-12&layout=compact&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide_border=true&border_radius=15" />
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/samyuktha-12">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyuktha-12&theme=transparent&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff&sideLabels=c9d1d9&sideNums=00e5ff&currStreakNum=c9d1d9&dates=555555&hide_border=true&border_radius=15" width="600" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/samyuktha-12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samyuktha-12&bg_color=0d1117&color=00e5ff&line=a855f7&point=00e5ff&area=true&area_color=4B0082&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> echo $CONNECT`
+
+<br/>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/samyuktha-m-s">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:samyuktha1262@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/samyuktha-12">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=samyuktha-12&style=for-the-badge&color=00e5ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:4B0082,100:0d1117&height=120&section=footer" width="100%" />
